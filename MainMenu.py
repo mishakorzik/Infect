@@ -12,7 +12,7 @@ print("  \033[1;34m[2] >> \033[1;36;40mUpdate")
 print("  \033[1;34m[3] >> \033[1;36;40mAbout")
 print("  \033[1;34m[4] >> \033[1;36;40mExit")
 
-op=int(raw_input("Ma1lHacK: "))
+op=int(raw_input("1nfEct: "))
 
 if(op==1):
  os.system("clear")
@@ -27,8 +27,6 @@ elif(op==4):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting utility...")
  os.system("cd")
- os.system("cd Infect")
- os.system("bash About.sh")
 else:
  print("\033[1;31;40mInvalid input. Reloading Tool") 
  time.sleep(1.6)
