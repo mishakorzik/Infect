@@ -18,7 +18,7 @@ if(op==1):
  os.system("cd && cd Infect && bash src/Inf.sh && cd Virus && cp memz-trojan.zip /sdcard/ && cd && bash Infect/src/Instruction.sh")
 elif(op==2):
  os.system("clear")
- os.system("cd && cd Infect && bash src/Inf1.sh && cd Virus && cp VirtualXposed.apk /sdcard/ && cd && bash Infect/src/Instruction1.sh)
+ os.system("cd && cd Infect && bash src/Inf1.sh && cd Virus && cp VirtualXposed.apk /sdcard/ && cd && bash Infect/src/Instruction1.sh")
 elif(op==3):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting utility...")
