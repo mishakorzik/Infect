@@ -19,7 +19,7 @@ if(op==1):
  os.system("cd && cd Infect && bash src/Logo.sh && python2 src/InfectMenu.py")
 elif(op==2):
  os.system("clear")
- os.system("cd")
+ os.system("cd && rm -rf AutoUpdateMyTools && git clone https://github.com/mishakorzik/AutoUpdateMyTools && bash AutoUpdateMyTools/Files/InfectUpdateUtility.sh")
 elif(op==3):
  time.sleep(0.2)
  os.system("cd && cd Infect && bash src/About.sh")
