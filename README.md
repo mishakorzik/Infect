@@ -37,6 +37,14 @@
 #### while the command to start: Infect
 
 #### Succesfull! Started utility
+
+-----------
+## Uninstall infect
+#### while command to uninstall infect
+
+* `cd Infect`
+* `bash Uninstall/Uninstall.sh`
+
 * `By mishakorzhik`
 * `Tranks for read`
 
