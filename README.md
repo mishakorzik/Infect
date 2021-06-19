@@ -44,7 +44,7 @@
 
 * `cd Infect`
 * `bash Uninstall/Uninstall.sh`
-
+---------------
 * `By mishakorzhik`
 * `Tranks for read`
 
