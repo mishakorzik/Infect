@@ -1,3 +1,6 @@
+rc="\e[0m"
+red="\e[91m"
+
 echo -e '
                          __________
                       .~#########%%;~.
@@ -19,3 +22,6 @@ X |.....X  @#%,.@     |######%%;;;;,.|     @#%,.@  X.....| X
                        @#%.,@  @#%,.@              
                         @#%., @#%,.@
 '|lolcat -p 1.0
+echo -e "$red               ▶Developer: misha korzhik◀$rc"
+echo -e "$red            ⫸ https://github.com/mishakorzik ⫷$rc"
+echo 
