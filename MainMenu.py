@@ -16,7 +16,7 @@ op=int(raw_input("1nfEct: "))
 
 if(op==1):
  os.system("clear")
- os.system("cd && cd Infect && bash src/Logo.sh && python2 src/InfectMenu.py")
+ os.system("cd && cd Infect && python2 src/InfectMenu.py")
 elif(op==2):
  os.system("clear")
  os.system("cd && rm -rf AutoUpdateMyTools && git clone https://github.com/mishakorzik/AutoUpdateMyTools && bash AutoUpdateMyTools/Files/InfectUpdateUtility.sh")
