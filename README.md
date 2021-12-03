@@ -49,5 +49,5 @@
 * `Tranks for read`
 
 ##### Report bugs for Infect
-* `miguardzecurity@gmail.com` 
+* `developer.mishakorzhik@gmail.com` 
 
